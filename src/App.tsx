@@ -1,10 +1,10 @@
 import "./App.css";
-import { Example } from "./components/Example/Example";
+import ButtonText from "./components/Text/Text";
 
 function App() {
   return (
     <>
-      <Example />{" "}
+      <ButtonText />
     </>
   );
 }
